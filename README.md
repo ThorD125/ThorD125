@@ -14,7 +14,7 @@ I enjoy solving complex problems, exploring security vulnerabilities, and buildi
 
 * Cybersecurity research & penetration testing
 * Full-stack development (TypeScript, Python, Docker, Linux)
-* Troubleshooting & IT infrastructure support
+* Troubleshooting & IT infrastructure
 * Eager and fast learner, always exploring new technologies
 
 ---
@@ -36,7 +36,7 @@ I enjoy solving complex problems, exploring security vulnerabilities, and buildi
 
 * **Programming:** Python, TypeScript, JavaScript, HTML/CSS, Docker, Linux scripting
 * **Cybersecurity:** Burp Suite, Wireshark, Penetration Testing, CVSS Scoring
-* **Cloud & Infrastructure:** Microsoft 365, Azure Fundamentals (AZ-900), FortiGate Administration
+* **Cloud & Infrastructure:** Microsoft 365, Azure, FortiGate
 * **Other:** Troubleshooting, IT Support, End-User Training
 
 ---
@@ -55,9 +55,8 @@ I enjoy solving complex problems, exploring security vulnerabilities, and buildi
 ## 📂 Projects & Research
 
 * **[Cyber Security Research Notes](https://github.com/ThorD125/research-notes)** – A collection of notes, scripts, and findings from security research.
-* **[CTF Write-Ups](https://github.com/ThorD125/ctfs)** – Solutions and walkthroughs for Capture the Flag challenges.
 * **[TryHackMe Profile](https://tryhackme.com/p/ThorD125)** – Hands-on labs and security challenges.
-* **Other Projects:**
+* **Other Projects (see my repositorys:**
 
   * Chrome extension to auto-play Shorts/Reels
   * Quiz training platform with randomized Q\&A
@@ -76,7 +75,3 @@ I enjoy solving complex problems, exploring security vulnerabilities, and buildi
 * [LinkedIn](https://www.linkedin.com/in/thor-demeestere/)
 * [GitHub](https://github.com/ThorD125)
 * [TryHackMe](https://tryhackme.com/p/ThorD125)
-
----
-
-💬 *"Security is not a product, but a process."* – Bruce Schneier
