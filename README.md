@@ -1,7 +1,3 @@
-Here’s a refreshed, more professional version of your GitHub profile README based on your CV, keeping a clean and modern tone while still showing personality:
-
----
-
 # 👋 Hi, I'm Thor Demeestere
 
 **Developer & Cybersecurity Researcher**
